@@ -1,4 +1,8 @@
 # Tugas 1 PWEB
 
-Maheswara Danendra Satriananda | 5025201060
+Nama | NRP
+---------- | ----------
+Maheswara Danendra Satriananda | 5025201060i
+Luthfiyyah hanifah amari | 5025201090
+Mohammad Fany Faizul Akbar | 5025201225
 
